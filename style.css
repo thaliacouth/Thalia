@@ -1,12 +1,16 @@
 body{
     background-color: hwb(120 0% 61% / 0.863);
+    font-style: italic;
 }
 h1 {
-    color:rgb(228, 217, 193)
+    color:rgb(228, 217, 193);
+    font-style: italic;
 }
 h2 {
     color:rgb(243, 234, 209);
+    font-style: italic;
 }
 p {
     color: azure;
+    font-style: italic;
 }
